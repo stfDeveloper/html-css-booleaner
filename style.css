@@ -1,11 +1,51 @@
 
 .logo{
-    height: 80;
+    height: 100px;
     width: 200px;
 }
 header{
-    line-height: 70px;
-    height: 160px;
+    height: 110px;
     background-image: url(img/pattern.png);
+    background-size: 400px;
     background-color: #674EA7;
+}
+.titolone{
+font-size: 45px;}
+.autore{
+    color: #674EA7 ;
+
+}
+.data{
+    font-size: 10px;
+}
+.descrizione-foto{
+    font-size: 10px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+table{
+    width: 90%;
+}
+.prima-riga{
+    background-color: #674EA7;
+    color: white;
+}
+.seconda-riga{
+    background-color: lightblue;
+}
+.quarta-riga{
+    background-color: lightblue;
+}
+.correlati{
+    color: lightgray;
+}
+.container-1{
+    position: relative;
+}
+.testo-1{
+    color: white;
+  position: absolute;
+  top: 8px;
+  left: 16px;
 }
