@@ -1,0 +1,11 @@
+
+.logo{
+    height: 80;
+    width: 200px;
+}
+header{
+    line-height: 70px;
+    height: 160px;
+    background-image: url(img/pattern.png);
+    background-color: #674EA7;
+}
